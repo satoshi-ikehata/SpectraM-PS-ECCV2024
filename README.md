@@ -1,14 +1,12 @@
 # SpectraM-PS-ECCV2024
 Project Website for Physics-Free Spectrally Multiplexed Photometric Stereo under Unknown Spectral Composition (ECCV2024, Oral Presentation)
-
+📄 [ArXiv](https://arxiv.org/abs/2410.20716)
 # 🚀 Project Title
 
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/UnySzHtMw9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=UnySzHtMw9k)
+🎬[![YouTube](https://img.youtube.com/vi/UnySzHtMw9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=UnySzHtMw9k)
 
-🎬 [YouTube](https://www.youtube.com/watch?v=UnySzHtMw9k)  
-📄 [ArXiv](https://arxiv.org/abs/2410.20716)
 
 </div>
 
