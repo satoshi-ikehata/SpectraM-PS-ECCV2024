@@ -7,7 +7,11 @@ Project Website for Physics-Free Spectrally Multiplexed Photometric Stereo under
 
 <div align="center">
 
-[![YouTube](https://img.youtube.com/vi/UnySzHtMw9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=UnySzHtMw9k)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=UnySzHtMw9k">
+    <img src="https://img.youtube.com/vi/UnySzHtMw9k/maxresdefault.jpg" alt="YouTube Video" width="80%">
+  </a>
+</div>
 
 
 </div>
