@@ -1,14 +1,14 @@
 # SpectraM-PS-ECCV2024
-Tentative Project Website for SpectraM-PS (ECCV2024)
+Project Website for Physics-Free Spectrally Multiplexed Photometric Stereo under Unknown Spectral Composition (ECCV2024, Oral Presentation)
 
 # 🚀 Project Title
 
 <div align="center">
 
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=UnySzHtMw9k)
 
-🎬 [Watch the demo on YouTube](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)  
-📄 [Read the paper on arXiv](https://arxiv.org/abs/ARXIV_ID)
+🎬 [YouTube](https://www.youtube.com/watch?v=UnySzHtMw9k)  
+📄 [ArXiv](https://arxiv.org/abs/2410.20716)
 
 </div>
 
@@ -16,13 +16,23 @@ Tentative Project Website for SpectraM-PS (ECCV2024)
 
 ## 📝 Overview
 
-This project aims to XXXX and achieves YYYY using ZZZ.  
-For a detailed explanation, check out the video and the paper linked above.
+One-shot photometric stereo using spectral multiplexing technique under unknown spectral composition. 
 
 ## 🔧 Installation
+Source codes is almost mainteined.
 
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-pip install -r requirements.txt
+## 🔧 Dataset
+Source codes is almost mainteined.
 
+## 📚 Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{ikehata2025physicsfree,
+  title     = {Physics-Free Spectrally Multiplexed Photometric Stereo under Unknown Spectral Composition},
+  author    = {Ikehata, Satoshi and Asano, Yusuke},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  year      = {2025},
+  pages     = {295--312}
+}
