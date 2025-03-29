@@ -37,6 +37,6 @@ If you find this work useful, please consider citing our paper:
   title     = {Physics-Free Spectrally Multiplexed Photometric Stereo under Unknown Spectral Composition},
   author    = {Ikehata, Satoshi and Asano, Yusuke},
   booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
-  year      = {2025},
+  year      = {2024},
   pages     = {295--312}
 }
